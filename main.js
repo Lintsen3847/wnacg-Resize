@@ -3,13 +3,15 @@
 // @name:zh-TW   紳士漫畫頁面縮放
 // @name:zh-CN   绅士漫画页面缩放
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description         在頁面頂部的下拉選單調整漫畫圖片尺寸
 // @description:zh-TW   在頁面頂部的下拉選單調整漫畫圖片尺寸
 // @description:zh-CN   在页面顶部的下拉选单调整漫画图片尺寸
 // @author       Lin_tsen
 // @match        *://*.wnacg.com/photos-slist-aid-*
 // @match        *://*.wnacg.com/photos-slide-aid-*
+// @match        *://*.wnacg.org/photos-slist-aid-*
+// @match        *://*.wnacg.org/photos-slide-aid-*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wnacg.com
 // @grant        none
 // @license      MIT
